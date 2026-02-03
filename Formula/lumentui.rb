@@ -1,8 +1,8 @@
 class Lumentui < Formula
   desc "Elegant NestJS-based product monitoring system with real-time macOS notifications"
   homepage "https://github.com/victorstein/lumentui"
-  url "https://registry.npmjs.org/lumentui/-/lumentui-1.1.1.tgz"
-  sha256 "c8d3eae160a892e32837db3dcae515e843e5383fef52b8141940c8bcf8b6d59f"
+  url "https://registry.npmjs.org/lumentui/-/lumentui-1.2.0.tgz"
+  sha256 "cda0a9883d14f1907a9216e67b184af40e4afc519c0f58c1ca1a12b8bd2006cb"
   license "MIT"
 
   depends_on "node"
